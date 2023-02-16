@@ -11,12 +11,12 @@
 
 @font-face {
     font-family: 'Ubuntu Bold';
-    src: url('/fontes/ubuntu-bold.ttf') format(truetype);
+    src: url('../fontes/ubuntu-bold.ttf') format(truetype);
 }
 
 @font-face {
     font-family: 'Ubuntu Regular';
-    src: url('/fontes/ubuntu-regular.ttf') format(truetype);
+    src: url('../fontes/ubuntu-regular.ttf') format(truetype);
 }
 
 body{
